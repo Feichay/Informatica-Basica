@@ -1,0 +1,354 @@
+Script iniciado en 2019-10-10 18:07:21+0100
+alu0101364544@cc2114:~$ pwd
+/home/siga01.stic.ull.es/cd/alu0101364544
+alu0101364544@cc2114:~$ ld[Ks
+datos
+Descargas
+Desktop
+Documentos
+DONT-SAVE-YOUR-FILES-IN-THIS-FOLDER-THEY-WILL-BE-DELETED
+Escritorio
+ficheros-perfil-local
+files-in-this-directory-at-login-time.txt
+Imágenes
+IMPORTANTE.TXT
+Música
+NO-GUARDE-SUS-ARCHIVOS-EN-ESTA-CARPETA-SERAN-BORRADOS
+Plantillas
+Público
+README.txt
+typescript
+Vídeos
+alu0101364544@cc2114:~$ LD[KS
+
+No se ha encontrado la orden «LS», pero se puede instalar con:
+
+apt install sl
+Pregunte al administrador.
+
+alu0101364544@cc2114:~$ ls[K[Kmkditr[K[Kr nombre_usuario
+alu0101364544@cc2114:~$ l[Kpwd
+/home/siga01.stic.ull.es/cd/alu0101364544
+alu0101364544@cc2114:~$ ls
+datos
+Descargas
+Desktop
+Documentos
+DONT-SAVE-YOUR-FILES-IN-THIS-FOLDER-THEY-WILL-BE-DELETED
+Escritorio
+ficheros-perfil-local
+files-in-this-directory-at-login-time.txt
+Imágenes
+IMPORTANTE.TXT
+Música
+NO-GUARDE-SUS-ARCHIVOS-EN-ESTA-CARPETA-SERAN-BORRADOS
+nombre_usuario
+Plantillas
+Público
+README.txt
+typescript
+Vídeos
+alu0101364544@cc2114:~$ pd[Kwd
+/home/siga01.stic.ull.es/cd/alu0101364544
+alu0101364544@cc2114:~$ md[Kkdir[K[K[K[K[Kpwd
+/home/siga01.stic.ull.es/cd/alu0101364544
+alu0101364544@cc2114:~$ mkdir nombre:_[K[K[Ke_usuario
+mkdir: no se puede crear el directorio «nombre_usuario»: El archivo ya existe
+alu0101364544@cc2114:~$ mkdir nombre_usuario[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kpwd
+/home/siga01.stic.ull.es/cd/alu0101364544
+alu0101364544@cc2114:~$ d[Kcd nombre_usuario
+alu0101364544@cc2114:~/nombre_usuario$ pd[Kwd
+/home/siga01.stic.ull.es/cd/alu0101364544/nombre_usuario
+alu0101364544@cc2114:~/nombre_usuario$ mkdir tmp
+alu0101364544@cc2114:~/nombre_usuario$ mkdir tmp[K[K[Kasignaturas 
+alu0101364544@cc2114:~/nombre_usuario$ mkdir asignaturas [K[K[K[K[K[K[K[K[K[K[K[Kvarios
+alu0101364544@cc2114:~/nombre_usuario$ cd asiganturas[K[K[K[K[K[K[Knaturas
+alu0101364544@cc2114:~/nombre_usuario/asignaturas$ pwd
+/home/siga01.stic.ull.es/cd/alu0101364544/nombre_usuario/asignaturas
+alu0101364544@cc2114:~/nombre_usuario/asignaturas$ mkdir informatica_basica
+alu0101364544@cc2114:~/nombre_usuario/asignaturas$ mkdir algebra
+alu0101364544@cc2114:~/nombre_usuario/asignaturas$ mkdir algebra[K[K[K[K[K[K[K[K calculo
+alu0101364544@cc2114:~/nombre_usuario/asignaturas$ mkdir calculo[K[K[K[K[K[K[K[K[K[K[K[K[Kcd informatica_basica
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica$ pwd
+/home/siga01.stic.ull.es/cd/alu0101364544/nombre_usuario/asignaturas/informatica_basica
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica$ mkdir teo[K[Keor ia[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr ia
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica$ mkdir prac ticas
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica$ cd practic as
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$  pwd
+/home/siga01.stic.ull.es/cd/alu0101364544/nombre_usuario/asignaturas/informatica_basica/practicas
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$  mkdir p1
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$  mkdir p1[K2
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$  cd ../../..
+alu0101364544@cc2114:~/nombre_usuario$ pwd
+/home/siga01.stic.ull.es/cd/alu0101364544/nombre_usuario
+alu0101364544@cc2114:~/nombre_usuario$ p[Kcd asiganturas
+bash: cd: asiganturas: No existe el archivo o el directorio
+alu0101364544@cc2114:~/nombre_usuario$ cd asiganturas[K
+bash: cd: asigantura: No existe el archivo o el directorio
+alu0101364544@cc2114:~/nombre_usuario$ cd asigantura[C[C[C[C[C[K[K[K[K[K[K[Kgnaturas
+alu0101364544@cc2114:~/nombre_usuario/asignaturas$ cd asignaturas[K[K[K[K[K[K[K[K[K[K[Kinformatica_basica
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica$ cd teoria
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ cat [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[Kpwd [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kd
+/home/siga01.stic.ull.es/cd/alu0101364544/nombre_usuario/asignaturas/informatica_basica/teoria
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ cat  [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[Kcat  > mifichero.txt
+ds  alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ mor e
+more: bad usage
+Escriba 'more --help' para obtener más información.
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ lñ[Kes s
+Missing filename ("less --help" for help)
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ cat  le[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct  more
+cat: more: No existe el archivo o el directorio
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ cat .[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kt
+more
+more
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ pwd [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kd
+/home/siga01.stic.ull.es/cd/alu0101364544/nombre_usuario/asignaturas/informatica_basica/teoria
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ ls
+mifichero.txt
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ cp  [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C  mifichero.txt ../ [Kpracticas
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ cd. ./[K.7[K([K/
+bash: cd.../: No existe el archivo o el directorio
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ cd  ../
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica$ p[Kl[Kcd teoria[K[K[K[K[K[Kpractic as
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$  ls
+mifichero.txt  p1  p2
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$  rm mifichero.txt cat[K[K[Kmo[K[Kcd mifichero.txt
+rm: no se puede borrar 'cd': No existe el archivo o el directorio
+rm: no se puede borrar 'mifichero.txt': No existe el archivo o el directorio
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$  rm mifichero.txt cd mifichero.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd mifichero.txt
+bash: cd: mifichero.txt: No existe el archivo o el directorio
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$  ls[K[Kmore
+more: bad usage
+Escriba 'more --help' para obtener más información.
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$  less
+Missing filename ("less --help" for help)
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$  pwd
+/home/siga01.stic.ull.es/cd/alu0101364544/nombre_usuario/asignaturas/informatica_basica/practicas
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$  ls
+p1  p2
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$  cd ../
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica$ cd teoria
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ ls
+mifichero.txt
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ cp  mifichero.txt ../[K[K[K../practicas
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ cd  ../
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica$ cd p[Kasigant uras[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[Kop[K[Kpractic as
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$  ls
+mifichero.txt  p1  p2
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$  cd mifichero.txt
+bash: cd: mifichero.txt: No es un directorio
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$  man
+¿Qué página de manual quiere?
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$  mv pr[K[Kmifichero.txt otrofichero.txt
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$  ls
+otrofichero.txt  p1  p2
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$  cd[K[Kmv otrofichero.txt .._[K/../varios
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$  cd../..[K[K[K[K[K ../../
+alu0101364544@cc2114:~/nombre_usuario/asignaturas$ .[Kcd[K[Kls
+algebra  calculo  informatica_basica  varios
+alu0101364544@cc2114:~/nombre_usuario/asignaturas$ cd c[Kvarios
+bash: cd: varios: No es un directorio
+alu0101364544@cc2114:~/nombre_usuario/asignaturas$ cd
+alu0101364544@cc2114:~$ ls
+datos
+Descargas
+Desktop
+Documentos
+DONT-SAVE-YOUR-FILES-IN-THIS-FOLDER-THEY-WILL-BE-DELETED
+Escritorio
+ficheros-perfil-local
+files-in-this-directory-at-login-time.txt
+Imágenes
+IMPORTANTE.TXT
+Música
+NO-GUARDE-SUS-ARCHIVOS-EN-ESTA-CARPETA-SERAN-BORRADOS
+nombre_usuario
+Plantillas
+Público
+README.txt
+typescript
+Vídeos
+alu0101364544@cc2114:~$ pwd
+/home/siga01.stic.ull.es/cd/alu0101364544
+alu0101364544@cc2114:~$ cd
+alu0101364544@cc2114:~$ pwd
+/home/siga01.stic.ull.es/cd/alu0101364544
+alu0101364544@cc2114:~$ ls
+datos
+Descargas
+Desktop
+Documentos
+DONT-SAVE-YOUR-FILES-IN-THIS-FOLDER-THEY-WILL-BE-DELETED
+Escritorio
+ficheros-perfil-local
+files-in-this-directory-at-login-time.txt
+Imágenes
+IMPORTANTE.TXT
+Música
+NO-GUARDE-SUS-ARCHIVOS-EN-ESTA-CARPETA-SERAN-BORRADOS
+nombre_usuario
+Plantillas
+Público
+README.txt
+typescript
+Vídeos
+alu0101364544@cc2114:~$ cd varios
+bash: cd: varios: No existe el archivo o el directorio
+alu0101364544@cc2114:~$ cd varios[K[K[K[K[K[K[K[K[Kpwd
+/home/siga01.stic.ull.es/cd/alu0101364544
+alu0101364544@cc2114:~$ cd nombre_usuario
+alu0101364544@cc2114:~/nombre_usuario$ cd nombre_usuario[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kpwd
+/home/siga01.stic.ull.es/cd/alu0101364544/nombre_usuario
+alu0101364544@cc2114:~/nombre_usuario$ ls
+asignaturas  tmp  varios
+alu0101364544@cc2114:~/nombre_usuario$ cd varios
+alu0101364544@cc2114:~/nombre_usuario/varios$ pwd
+/home/siga01.stic.ull.es/cd/alu0101364544/nombre_usuario/varios
+alu0101364544@cc2114:~/nombre_usuario/varios$ ls
+alu0101364544@cc2114:~/nombre_usuario/varios$ ls
+alu0101364544@cc2114:~/nombre_usuario/varios$ [Kalu0101364544@cc2114:~/nombre_usuario/varios$ cd[K[Kls[K[Kls
+alu0101364544@cc2114:~/nombre_usuario/varios$ pwd
+/home/siga01.stic.ull.es/cd/alu0101364544/nombre_usuario/varios
+alu0101364544@cc2114:~/nombre_usuario/varios$ ../[K[K[Kcd ../
+alu0101364544@cc2114:~/nombre_usuario$ pwd
+/home/siga01.stic.ull.es/cd/alu0101364544/nombre_usuario
+alu0101364544@cc2114:~/nombre_usuario$ ls
+asignaturas  tmp  varios
+alu0101364544@cc2114:~/nombre_usuario$ cd asiganturas
+bash: cd: asiganturas: No existe el archivo o el directorio
+alu0101364544@cc2114:~/nombre_usuario$ cd asiganturas[K[K[K[K[K[K[Knaturas
+alu0101364544@cc2114:~/nombre_usuario/asignaturas$ pwd
+/home/siga01.stic.ull.es/cd/alu0101364544/nombre_usuario/asignaturas
+alu0101364544@cc2114:~/nombre_usuario/asignaturas$ ls
+algebra  calculo  informatica_basica  varios
+alu0101364544@cc2114:~/nombre_usuario/asignaturas$ cd varios
+bash: cd: varios: No es un directorio
+alu0101364544@cc2114:~/nombre_usuario/asignaturas$ rmdir varios
+rmdir: fallo al borrar 'varios': No es un directorio
+alu0101364544@cc2114:~/nombre_usuario/asignaturas$ rm varios
+alu0101364544@cc2114:~/nombre_usuario/asignaturas$ pwd
+/home/siga01.stic.ull.es/cd/alu0101364544/nombre_usuario/asignaturas
+alu0101364544@cc2114:~/nombre_usuario/asignaturas$ ls
+algebra  calculo  informatica_basica
+alu0101364544@cc2114:~/nombre_usuario/asignaturas$ cd al[K[Kinformatica_basica
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica$ cd teoria
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ ls
+mifichero.txt
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ cd[K[Kcp mifichero.txt ../practicas
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ cd ../
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica$ pwd
+/home/siga01.stic.ull.es/cd/alu0101364544/nombre_usuario/asignaturas/informatica_basica
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica$ ls
+practicas  teoria
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica$ cd teoria[K[K[K[K[K[Kop[K[Kpreacticas[K[K[K[K[K[K[K[Kacticas
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$ ls
+mifichero.txt  p1  p2
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$ rm mifichero.txt otrofichero.txt
+rm: no se puede borrar 'otrofichero.txt': No existe el archivo o el directorio
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$ rm mifichero.txt otrofichero.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pt[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Klñ[Ks
+p1  p2
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$ cd.[K ../
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica$ cd[K[Kpra[K[K[Kcd[K[Kls
+practicas  teoria
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica$ cd teoria
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ ls
+mifichero.txt
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ cp mifichero.txt ../practicas
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ cd[Kp ../
+cp: falta el operando archivo de destino después de '../'
+Pruebe 'cp --help' para más información.
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/teoria$ cd ../
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica$ cd practicas
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$ ls
+mifichero.txt  p1  p2
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$ c[Kmv otr[K[K[Kmifichero.txt.[K otrofichero,.[K[K.txt
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$ ls
+otrofichero.txt  p1  p2
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$ mv[K[Kmv practioc[K[Kcas ../../..varios[C[1@ [1@o[1@t[1@r[1@o[1@f[1@i[1@c[1@h[1@e[1@r[1@o[1@.[1@t[1@x[1@t[C[1@ [1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+mv: el objetivo '../../..varios' no es un directorio
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$ ls
+otrofichero.txt  p1  p2
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$ lsmv otrofichero.txt practicas ../../..varios[1Pvarios[1P.varios[C[1Pvarios/varios[C[C[C[C[C[C
+mv: el objetivo '../../varios' no es un directorio
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$ mv otrofichero.txt practicas ../../varios[K[K[K[K[K[K[K[K[K[K[K[Kmv  otro[K[K[K[K[K[K otrofichero.txt ../../varios
+mv: el objetivo '../../varios' no es un directorio
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$ mv otrofichero.txt practicas mv otrofichero.txt ../../varios./varios./varios[1P/varios[1P/varios[C.varios.varios
+mv: el objetivo '../../..varios' no es un directorio
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$ mv otrofichero.txt practicas mv otrofichero.txt ../../..varios[K[K[K[K[K[K[K[K[K[K[K[K[K[K../../.. vari[K[K[K[K[K/varios
+mv: no se puede efectuar `stat' sobre 'practicas': No existe el archivo o el directorio
+mv: no se puede efectuar `stat' sobre 'mv': No existe el archivo o el directorio
+mv: no se puede efectuar `stat' sobre 'otrofichero.txt': No existe el archivo o el directorio
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$ mv otrofichero.txt practicas mv otrofichero.txt ../../../varios[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kmv otrofih[K[K[Kch[K[Kfichero.txt ../../../[Kvarios[K[K[K[K[K[K/varios
+mv: no se puede efectuar `stat' sobre 'otrofichero.txt': No existe el archivo o el directorio
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$ ls
+p1  p2
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica/practicas$ pw[K[Kcd[Kd ../
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica$ ls
+practicas  teoria
+alu0101364544@cc2114:~/nombre_usuario/asignaturas/informatica_basica$ ls[K[Kcd..[K[K ../
+alu0101364544@cc2114:~/nombre_usuario/asignaturas$ ls
+algebra  calculo  informatica_basica
+alu0101364544@cc2114:~/nombre_usuario/asignaturas$ cd ...[K([K/
+alu0101364544@cc2114:~/nombre_usuario$ ls
+asignaturas  tmp  varios
+alu0101364544@cc2114:~/nombre_usuario$ rmdir tmp
+alu0101364544@cc2114:~/nombre_usuario$ cd vsar[K[K[Karios
+alu0101364544@cc2114:~/nombre_usuario/varios$ ls
+otrofichero.txt
+alu0101364544@cc2114:~/nombre_usuario/varios$ ld[K[Kls-l
+ls-l: orden no encontrada
+alu0101364544@cc2114:~/nombre_usuario/varios$ pws[Kd
+/home/siga01.stic.ull.es/cd/alu0101364544/nombre_usuario/varios
+alu0101364544@cc2114:~/nombre_usuario/varios$ ls
+otrofichero.txt
+alu0101364544@cc2114:~/nombre_usuario/varios$ ls-l
+ls-l: orden no encontrada
+alu0101364544@cc2114:~/nombre_usuario/varios$ ls -l
+total 0
+-rw-r--r-- 1 alu0101364544 www-data 0 oct 10 18:32 otrofichero.txt
+alu0101364544@cc2114:~/nombre_usuario/varios$ chmod otrofichero.txt +r +[K[K
+chmod: modo inválido: «otrofichero.txt»
+Pruebe 'chmod --help' para más información.
+alu0101364544@cc2114:~/nombre_usuario/varios$ chmod otrofichero.txt +r[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K+r otrofichero.txt
+alu0101364544@cc2114:~/nombre_usuario/varios$ chmod +r otrofichero.txt[1P[1@+[C[1P otrofichero.txtt otrofichero.txt[1P otrofichero.txtg otrofichero.txt
+alu0101364544@cc2114:~/nombre_usuario/varios$ chmod +g otrofichero.txt[C[1P otrofichero.txtx otrofichero.txt
+alu0101364544@cc2114:~/nombre_usuario/varios$ chmod +x otrofichero.txt[C[1P otrofichero.txtr otrofichero.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kls -l
+total 0
+-rwxr-xr-x 1 alu0101364544 www-data 0 oct 10 18:32 otrofichero.txt
+alu0101364544@cc2114:~/nombre_usuario/varios$ ls[K[Kr[Ku+r otrofichero.txt
+
+Orden «u+r» no encontrada. Quizá quiso decir:
+
+  la orden «ur» del paquete deb «libur-perl»
+
+Pruebe con: apt install <nombre del paquete deb>
+
+alu0101364544@cc2114:~/nombre_usuario/varios$ u+r otrofichero.txt[C[1P[C[1@u
+
+Orden «+ur» no encontrada. Quizá quiso decir:
+
+  la orden «ur» del paquete deb «libur-perl»
+  la orden «sur» del paquete deb «subtle»
+
+Pruebe con: apt install <nombre del paquete deb>
+
+alu0101364544@cc2114:~/nombre_usuario/varios$ +ur otrofichero.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kls- [K[K -l
+total 0
+-rwxr-xr-x 1 alu0101364544 www-data 0 oct 10 18:32 otrofichero.txt
+alu0101364544@cc2114:~/nombre_usuario/varios$ find
+.
+./otrofichero.txt
+alu0101364544@cc2114:~/nombre_usuario/varios$ find -name otrofichero.txt
+./otrofichero.txt
+alu0101364544@cc2114:~/nombre_usuario/varios$ find ][K*
+otrofichero.txt
+alu0101364544@cc2114:~/nombre_usuario/varios$ exit
+
+Script terminado en 2019-10-10 18:47:16+0100
